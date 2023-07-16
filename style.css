@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Caveat:wght@600&family=Dancing+Script:wght@400;500&family=Fasthand&family=Open+Sans&family=Pacifico&family=Ysabeau+SC:wght@600&display=swap');
+.navbar-brand{
+    font-family: 'Allura', cursive;
+}
+    
+.navbar-nav {
+    font-family: 'Caveat', cursive;
+
+}
+.carousel-item1 {
+   
+    background-size: cover;
+}
+body{
+    background-color: black;
+}
+.d-block{
+    height: 100px;
+    width: 100PX;
+    margin-left: 50PX;
+}
+.banner{
+    color: yellow;
+    font-family: 'Pacifico', cursive;
+    font-weight: 200;
+    font-size: 29px;
+    /* margin-bottom: 50px;
+    margin-left: 198px;
+    margin-top: 244px; */
+
+    
+}
+.p1{
+    color: white;
+    font-size: x-large;
+    font-weight: 100;
+    font-style: normal;
+    /* margin-bottom: 50px;
+    margin-left: 198px;
+    margin-top: -32px; */
+}
+.div2{
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-top:100px ;
+    height: 50px;
+    width: 50px;
+    
+}
+.img-fluid{
+    height: 162px;
+    width: 175px;
+    margin-top: -464px;
+    margin-left: 883px;
+    border-radius: 81px;
+}
+.b1{
+    background-color: orange;
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.left-box{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+.right-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+.right-box img{
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    object-fit: cover;
+}
