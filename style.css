@@ -93,13 +93,13 @@ body{
     margin-top: 68px;
     margin-left: -16px;
 }
-h6{
+.about{
     color:yellow ;
     margin-top:258px;
-    margin-left: 279px;
-    font-family: 'Caveat', cursive;
-    font-weight: 600;
+    margin-left: 226px;
+    font-weight: 800;
     font-size: x-large;
+    font-style: normal;
 
     
 }
@@ -136,4 +136,10 @@ h6{
       text-align: center;
     }
   }
-  
+  .text-uppercase{
+color: white;
+  }
+
+.footer-content{
+    margin-top: 50px;
+}
